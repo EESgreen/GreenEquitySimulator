@@ -1,3 +1,9 @@
+/* ═══════════════════════════════════════════════════════════════
+   GREEN EQUITY SIMULATOR — styles.css
+   Member 2: All CSS styling, theme variables, animations
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ─── CSS CUSTOM PROPERTIES (THEME) ─────────────────────────── */
 :root {
   --bg:       #0a0f0a;
   --bg2:      #111811;
@@ -500,3 +506,4 @@ select {
   outline: none;
   cursor: pointer;
 }
+
